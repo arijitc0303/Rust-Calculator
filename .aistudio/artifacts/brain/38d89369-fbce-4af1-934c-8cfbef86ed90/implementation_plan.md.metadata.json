@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive implementation plan for a lightweight, high-performance scientific graphing calculator featuring live WebAssembly and symbolic calculus computation, Desmos-style split-pane notebook layout, multi-function real-time graphing with zoom/pan and tangent tracing, a 20-calculation history log, and downloadable native Rust desktop source code.",
+  "updatedAt":  "2026-10-24T15:10:39.892646770Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

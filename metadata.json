@@ -1,0 +1,6 @@
+{
+  "name": "RustCalc Workstation",
+  "description": "High-precision scientific and graphing calculator with live WebAssembly computation, symbolic calculus, real-time multi-curve graphing, and native Rust desktop app export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
